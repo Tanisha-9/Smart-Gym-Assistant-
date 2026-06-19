@@ -41,5 +41,3 @@ npm run dev
 
 ---
 
-## ⚖️ License
-MIT License. Created for the AI Fitness Challenge.
